@@ -2,11 +2,8 @@
 # Варіант відсутній
 ## 1) Інтерфейс програми:
 ![image](https://user-images.githubusercontent.com/91895594/233076027-43367707-6adf-483b-be19-211397d4d866.png)
-## 2) Відправлення повідомлення:
-![image](https://user-images.githubusercontent.com/91895594/233076534-fb3f8780-7c9b-46d6-b843-d369df792e07.png)
-## 3) Прийом повідомлення:
-![image](https://user-images.githubusercontent.com/91895594/233076601-a35b8123-008e-40ba-9368-17d475c5c297.png)
-## 4) Відправлення повідомлення:
-![image](https://user-images.githubusercontent.com/91895594/233076570-df05fb67-db0d-4c5c-b38a-c4aa616a301d.png)
-## 5) Прийом повідомлення:
-![image](https://user-images.githubusercontent.com/91895594/233076641-aba4ef2b-a534-4806-bc92-b2a858b758c0.png)
+## 2) Демонстрація роботи чату:
+![image](https://user-images.githubusercontent.com/91895594/233079489-32415651-7a10-46df-a3b9-2e3b964b9255.png)
+![image](https://user-images.githubusercontent.com/91895594/233079532-8e0e47db-ab39-48f0-bcf7-df5e7c605247.png)
+![image](https://user-images.githubusercontent.com/91895594/233079576-267f32b3-1138-4e8d-a7d8-a477af4399e4.png)
+![image](https://user-images.githubusercontent.com/91895594/233079617-367003b9-e7b2-4b1f-bd9b-0193a0f87720.png)
